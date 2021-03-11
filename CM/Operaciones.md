@@ -16,10 +16,10 @@ Esta pantalla inicial es por la cual se comienza la navegación en el cuadro, y 
 
 En este nivel a excepción de los nombre de los jefe de proyecto, su fotografía o los nombres de los proyectos, el resto son medidas calculada en PowerBI (conteos, agrupaciones, porcentajes o algunas más complejas como la estimación del tiempo para acabar el proyecto).
 
-Está dividido en tres secciones: indicadores numéricos; gráficas de evolución, y tablas.
-* Dentro de los indicadores númericos: tenemos el contejo del numero de proyectos en ejecución, el estado de las tareas desde distintas perspectivas (total de tareas, tareas cerrradas, abiertas, no empezadas, retrasadas y no retrasadas); y por último los porcentajes de avance. Son  dos  indicadores, por un lado el porcentaje de avance declarado global y por otro lado el porcentaje de avance consumido real.
-** A través los avances registrados en cada una de las tareas;
-
+Está dividido en tres secciones: **indicadores numéricos; gráficas de evolución, y tablas**.
+* Dentro de los **indicadores númericos**: tenemos el contejo del numero de proyectos en ejecución, el estado de las tareas desde distintas perspectivas (total de tareas, tareas cerrradas, abiertas, no empezadas, retrasadas y no retrasadas); y por último los porcentajes de avance. Son  dos  indicadores, por un lado el porcentaje de avance declarado global y por otro lado el porcentaje de avance consumido real.
+* El **%Avande Declarado** es calculado de manera ponderada, a través los avances registrados en cada una de las tareas por el trabajador que las tienen asignada.  En cambio el **%Avance consumido** es un calculo a partir de las horas declaradas y las horas planificadas. Por lo tanto si "%Avance consumido > Avande Declarado" se está consumiendo más recursos (horas hombre) de lo que se planificó.
+* La gráficas de evolución vienen a complementar a los *% de Avance*. Es el mimso indicador pero cambiando de variable una está espresada en terminos monetarios (Euros) y la otra en tiempo.  El valor mínimo del gráfico muestra el valor teórico (el tiempo o los euros que deberiamos llevar consumidos) el valor central que es equivalente al área azul, es la cantidad que llevamos consumida de la magnitud. El número en color dorado representado también por una línea dorada es el valor planificado; y el máximo es la estimación calculada de lo que vamos a necesitar para ejecutar  el resto de las tareas que tenemos en el backlog. Es decir, el máximo de la gráfica nos indica el importe de tiempo o económico al que vamos a llegar si seguimos ejecutando a este ritmo.
 
 
 
