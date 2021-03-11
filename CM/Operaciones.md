@@ -16,7 +16,7 @@ La tabla de hechos contiene información sobre las tareas y las características
 ## Nivel 1: Visión General
 Esta pantalla inicial es por la cual se comienza la navegación en el cuadro, y su enfoque es ver la totalidad de la cartetara de proyectos y mostrar indicadores a nivel global.
 ![CMJP_1](https://user-images.githubusercontent.com/63968211/110802861-e2f30680-827e-11eb-8163-fe00419be64a.jpg)](https://www.youtube.com/watch?v=DSZq8_tGM6M "CMO-PB")
-)
+
 
 En este nivel a excepción de los nombre de los jefe de proyecto, su fotografía o los nombres de los proyectos, el resto son medidas calculada en PowerBI (conteos, agrupaciones, porcentajes o algunas más complejas como la estimación del tiempo para acabar el proyecto).
 
