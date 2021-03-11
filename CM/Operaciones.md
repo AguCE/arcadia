@@ -18,7 +18,7 @@ En este nivel a excepción de los nombre de los jefe de proyecto, su fotografía
 
 Está dividido en tres secciones: indicadores numéricos; gráficas de evolución, y tablas.
 *Dentro de los indicadores númericos: tenemos el contejo del numero de proyectos en ejecución, el estado de las tareas desde distintas perspectivas (total de tareas, tareas cerrradas, abiertas, no empezadas, retrasadas y no retrasadas); y por último los porcentajes de avance. Son  dos  indicadores, por un lado el porcentaje de avance declarado global y por otro lado el porcentaje de avance consumido real.
-A través los avances registrados en cada una de las tareas;
+** A través los avances registrados en cada una de las tareas;
 
 
 
