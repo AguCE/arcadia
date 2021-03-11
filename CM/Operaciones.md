@@ -17,6 +17,9 @@ Esta pantalla inicial es por la cual se comienza la navegación en el cuadro, y 
 En este nivel a excepción de los nombre de los jefe de proyecto, su fotografía o los nombres de los proyectos, el resto son medidas calculada en PowerBI (conteos, agrupaciones, porcentajes o algunas más complejas como la estimación del tiempo para acabar el proyecto).
 
 Está dividido en tres secciones: indicadores numéricos; gráficas de evolución, y tablas.
+* Dentro de los indicadores númericos: tenemos el contejo del numero de proyectos en ejecución, el estado de las tareas desde distintas perspectivas (total de tareas, tareas cerrradas, abiertas, no empezadas, retrasadas y no retrasadas); y por último los porcentajes de avance. Son  dos  indicadores, por un lado el porcentaje de avance declarado global y por otro lado el porcentaje de avance consumido real,
+*   a través los avances registrados en cada una de las tareas;
+
 
 
 
