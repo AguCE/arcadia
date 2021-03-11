@@ -1,5 +1,9 @@
 # Cuadro de operaciones
 
+
+https://www.youtube.com/watch?v=DSZq8_tGM6M
+
+
 Este es un ejemplo de un **cuadro de mando orientado a los KPI del área de operaciones** realizado con **PowerBI**. Búsca ser una herramienta de fácil utilización por parte de los interlocutores, por ello se ha definido su navegación en 3 niveles de granularidad. 
 Respecto al modelo de datos, indicar que es bastante simple. Está compuesto por una tabla de hechos, y algunas tablas de dimensiones. Concretamente es un excel que está en Sharepoint, pero al igual podría ser una tabla de CDS (Common Data Service), una base de datos operacional on un Datalake.
 
