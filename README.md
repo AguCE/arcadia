@@ -2,7 +2,7 @@
 
 ¡Bienvenido!
 
-Este repo está orientaodo a compartir información sobre el tratamiento y análisis de datos 
+Este repo está orientaodo a compartir información sobre digitalización de procesos, el tratamiento y análisis de datos 
 
 En la Wiki puedes enonctrar más información sobre
 Cuadros de Mando:
