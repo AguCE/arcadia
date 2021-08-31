@@ -10,3 +10,4 @@ Cuadros de Mando:
   * Propuesta de dashboard sobre el seguimiento de tareas y tiempos de ejecución. Encaja en metodologías de gestión de proyectos centradas en el contro de horas y cierres de tareas
 * [Cuadro de Mando Getión de Cobro ](https://github.com/AguCE/arcadia/wiki/CM-Gestion-de-Cobro)
   *  Propuesta de herramientas operativa para conocer el estado de la facturación 
+  *  Nota: Puedes jugar con el template y descargar la app para PowerBI Service en el [link](https://digitalizacionparadummies.com/recursos/powerbi-cm-seguimiento-facturas)
